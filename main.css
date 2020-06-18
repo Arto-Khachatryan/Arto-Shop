@@ -1,0 +1,52 @@
+.menu-bgcolor{
+    background-color: #1f4068;
+}
+
+.account-bgcolor{
+    background-color: #e43f5a;
+}
+
+.text-color{
+    color: #1b1b2f;
+}
+
+.text-eh{
+    color: #e43f5a;
+}
+.text-bg-eh{
+    background-color: #e43f5a;
+}
+.menu-bgcolor2{
+    background-color: #162447;
+}
+
+
+.wid{
+    width: 500px;
+    height: 400px;
+}
+
+
+.wid2{
+    height:100%;
+}
+
+.font-s{
+    font-style: italic;
+}
+
+
+@media screen and (min-width:992){
+    #change{
+        margin-top: 210px;  
+        margin-left: 200px;
+    }
+}
+
+@media screen and (max-width:992){
+    #change{
+        margin-top: 10px;  
+        margin-left: 200px;
+        background-color: red;
+    }
+}
