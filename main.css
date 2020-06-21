@@ -36,17 +36,13 @@
 }
 
 
-@media screen and (min-width:992){
-    #change{
-        margin-top: 210px;  
-        margin-left: 200px;
-    }
+
+
+.text-trans{
+    text-transform: full-width;
 }
 
-@media screen and (max-width:992){
-    #change{
-        margin-top: 10px;  
-        margin-left: 200px;
-        background-color: red;
-    }
+.header-color{
+    background-color: #DDE3E3;
 }
+
